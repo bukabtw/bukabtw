@@ -4,13 +4,15 @@
 
 </div>
 
----
+<img src="https://img.shields.io/badge/-E53935?style=flat-square" width="100%" height="3" />
 
 <div align="center">
 
-## 🧠 Обо мне
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=E53935&center=true&vCenter=true&width=400&lines=%F0%9F%A7%A0+%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5" alt="Обо мне" />
 
 </div>
+
+
 
 ```python
 class Kirill:
@@ -37,11 +39,11 @@ class Kirill:
         self.interests  = ["Веб-разработка", "Десктоп-разработка", "Геймдев", "Интерактивные UI"]
 ```
 
----
+<img src="https://img.shields.io/badge/-E53935?style=flat-square" width="100%" height="3" />
 
 <div align="center">
 
-## 🛠️ Технологический стек
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=E53935&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D1%82%D0%B5%D0%BA" alt="Технологический стек" />
 
 </div>
 
@@ -85,11 +87,11 @@ class Kirill:
 
 </div>
 
----
+<img src="https://img.shields.io/badge/-E53935?style=flat-square" width="100%" height="3" />
 
 <div align="center">
 
-## 📊 GitHub Статистика
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=E53935&center=true&vCenter=true&width=450&lines=%F0%9F%93%8A+GitHub+%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" alt="GitHub Статистика" />
 
 <table>
 <tr>
@@ -112,11 +114,11 @@ class Kirill:
 
 </div>
 
----
+<img src="https://img.shields.io/badge/-E53935?style=flat-square" width="100%" height="3" />
 
 <div align="center">
 
-### 🔥 Открыт к предложениям!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=E53935&center=true&vCenter=true&width=500&lines=%F0%9F%94%A5+%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82+%D0%BA+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC!" alt="Открыт к предложениям!" />
 
 🐍 Backend · 🖥️ Desktop · 🌐 FullStack
 
@@ -126,33 +128,33 @@ class Kirill:
 
 </div>
 
----
+<img src="https://img.shields.io/badge/-E53935?style=flat-square" width="100%" height="3" />
 
 <div align="center">
 
-## 📫 Связаться со мной
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=E53935&center=true&vCenter=true&width=400&lines=%F0%9F%93%AB+%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F+%D1%81%D0%BE+%D0%BC%D0%BD%D0%BE%D0%B9" alt="Связаться со мной" />
 
 <div align="center">
 
 <a href="https://t.me/bukabtw">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-
 <a href="mailto:bukarev.k11@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 <a href="https://github.com/bukabtw">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+</div>
+
+<img src="https://img.shields.io/badge/-E53935?style=flat-square" width="100%" height="3" />
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=bukabtw&color=E53935&style=flat-square)
+
+<sub>❤️ Спасибо, что зашли!</sub>
 
 </div>
 
 
-<p align="center">
-  <a href="https://github.com/bukabtw">
-    <img src="https://komarev.com/ghpvc/?username=bukabtw&color=E53935&style=flat-square" alt="Профиль просмотров" />
-  </a>
-</p>

@@ -48,30 +48,39 @@ class Kirill:
 <div align="center">
 
 **Языки**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 **Backend**
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 **Frontend**
+
 ![Vue.js](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=yellow) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Базы данных**
+
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2929?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Аналитика**
+
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/-matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **Инструменты**
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 **Тестирование и автоматизация**
+
 ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 **Десктоп**
+
 ![PyQt6](https://img.shields.io/badge/PyQt6-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 
-**Дополнительно**
+**Прочее**
+
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 </div>
@@ -82,41 +91,24 @@ class Kirill:
 
 ## 📊 GitHub Статистика
 
-</div>
-
-<div align="center">
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-
-<div>
-
-### 📈 Статистика
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bukabtw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</div>
-
-<div>
-
-### 🏆 Языки
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukabtw&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-</div>
+<table>
+<tr>
+<td align="center"><b>📈 Статистика</b></td>
+<td align="center"><b>🏆 Языки</b></td>
+</tr>
+<tr>
+<td><img height="180" src="https://github-readme-stats.vercel.app/api?username=bukabtw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=450" /></td>
+<td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukabtw&layout=compact&theme=tokyonight&hide_border=true&card_width=450" /></td>
+</tr>
+</table>
 
 ### 📈 График активности
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bukabtw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1" alt="График активности" />
-</p>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bukabtw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1" alt="График активности" />
 
 ### 🏅 Достижения
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bukabtw&theme=tokyonight&no-bg=true&row=1&column=4" alt="Trophy" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=bukabtw&theme=tokyonight&no-bg=true&row=1&column=4" alt="Trophy" />
 
 </div>
 

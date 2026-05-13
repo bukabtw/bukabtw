@@ -99,8 +99,8 @@ class Kirill:
 <td align="center"><b>🏆 Языки</b></td>
 </tr>
 <tr>
-<td><img height="180" src="https://github-readme-stats.vercel.app/api?username=bukabtw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=450" /></td>
-<td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukabtw&layout=compact&theme=tokyonight&hide_border=true&card_width=450" /></td>
+<td><img height="180" src="https://raw.githubusercontent.com/bukabtw/bukabtw/main/assets/stats.svg" /></td>
+<td><img height="180" src="https://raw.githubusercontent.com/bukabtw/bukabtw/main/assets/languages.svg" /></td>
 </tr>
 </table>
 

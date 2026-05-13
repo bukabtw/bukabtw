@@ -17,8 +17,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-      - name: Generate stats card (левая колонка)
-        uses: lowlighter/metrics@3.34.0
+      - name: Generate stats card
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: bukabtw
@@ -27,8 +27,8 @@ jobs:
           filename: assets/stats.svg
           config_output: svg
 
-      - name: Generate languages card (правая колонка)
-        uses: lowlighter/metrics@3.34.0
+      - name: Generate languages card
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: bukabtw
